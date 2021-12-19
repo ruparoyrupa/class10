@@ -3,6 +3,6 @@
 let  username ="rupa_roy" ;
 
 
-// let pattren = /^[a-z_]{5,12}$/;
+let pattren3 = /^[a-z_]{5,12}$/;
 
-// console.log(pattren.test( username));
+console.log(pattren3.test( username));

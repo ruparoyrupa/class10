@@ -2,7 +2,7 @@
 
 let password = "firgh.h6754@#$";
 
-// let pattren = /^[A-Za-z0-9@#$&*_\.]{4,16}$/;
+let pattren4 = /^[A-Za-z0-9@#$&*_\.]{4,16}$/;
 
 
-// console.log(pattren.test(password));
+console.log(pattren4.test(password));
